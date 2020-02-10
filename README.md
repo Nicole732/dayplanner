@@ -5,5 +5,5 @@ User adds a task on the text area. The value is stored in local storage when sav
 Repository Link: https://github.com/Dorinetk/dayplanner
 Deployed site link: https://dorinetk.github.io/dayplanner/
 
-![viewofcurrenttime]./Assets/Images/viewcurrentimedisplay.png
-![vewofcalendargrid]./Assets/Images/viewofcalendargrid.png
+![viewofcurrenttime](./Assets/Images/viewcurrentimedisplay.png)
+![vewofcalendargrid](./Assets/Images/viewofcalendargrid.png)
